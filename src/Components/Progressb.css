@@ -1,0 +1,21 @@
+
+
+.main{
+    height: 2rem;
+    width: 30rem;
+    border-radius: 2rem;
+    background-color: #f8f8f8;
+    color: #fff;
+    margin: auto;
+}
+.bar{
+    height: 2rem;
+    border-radius: 2rem;
+    background-color: #ffa98c;
+    color: #ad00bd;
+    font-weight: 600;
+    
+}
+.progressBar{
+    color: #fff;
+}
